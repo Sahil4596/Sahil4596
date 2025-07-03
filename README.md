@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hey, I'm Sahil Jhajharia</h1>
   <p>
-    <em>Full Stack Developer | Software Engineer | Crypto Enthusiast</em><br>
-    🎓 NIT Hamirpur | 💼 SoftScript Technologies | 🧠 Passionate about AI, Blockchain, and DevOps
+    <em>Full Stack Developer | Software Engineer </em><br>
+    🎓 NIT Hamirpur | 💼 SoftScript Technologies |
   </p>
   <img src="https://komarev.com/ghpvc/?username=Sahil4596&label=Profile%20Views&color=blue&style=flat" alt="Profile views counter" />
 </div>
@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,express,tailwind,git,docker,aws,mysql,postgres,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,express,tailwind,git,mysql,postgres,java" alt="Tech stack icons" />
 </div>
 
 ---
@@ -20,7 +20,6 @@
 - 🎓 **ECE Postgraduate turned Full Stack Developer** with over 1 year of professional experience
 - 🛠️ Built scalable web applications using **Next.js**, **React**, **Tailwind CSS**, and **Express.js**
 - ⚙️ Optimized databases, developed RESTful APIs, and automated CI/CD pipelines for efficient deployments
-- 💡 Passionate about **crypto/blockchain**, machine learning, and open-source contributions
 
 ---
 
