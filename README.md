@@ -68,4 +68,4 @@
 ---
 
 ## 📁 Portfolio
-Check out my [portfolio website](https://your-portfolio-url.com) (coming soon!) for detailed project demos and blog posts.
+Check out my [portfolio website](https://portfolio-next-git-main-sahil-jhajharias-projects.vercel.app/)  for detailed project demos and blog posts.
